@@ -1,0 +1,3 @@
+/home/z31034602/BigP/build/CMakeFiles/rebuild_cache.dir
+/home/z31034602/BigP/build/CMakeFiles/edit_cache.dir
+/home/z31034602/BigP/build/CMakeFiles/cifar_shared.dir

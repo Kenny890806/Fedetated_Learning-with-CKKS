@@ -1,0 +1,5 @@
+python federated_main.py --model= --dataset=mnist --iid=0 --epochs=1
+
+
+
+python federated_main_ori.2.py --model=resnet18 --dataset=cifar --iid=0 --epochs=100
